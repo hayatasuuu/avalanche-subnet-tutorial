@@ -73,3 +73,8 @@ avalanche subnet describe mysubnet
 ```
 
 HYT（HAYATO）コインができました＾＾
+
+## 参考
+
+- https://github.com/ava-labs/avalanche-cli
+- https://docs.avax.network/subnets/create-a-local-subnet
